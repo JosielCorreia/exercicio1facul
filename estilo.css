@@ -1,0 +1,32 @@
+.quadrado{
+    border: 3px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background: #ff2c2c;
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.quadrado1{
+    left: 0px ;
+    top: 0px ;
+    background: #21ff04;
+}
+.quadrado2{
+    right: 0px ;
+    bottom: 0px ;
+    background: #00f7ff;
+}
+
+.quadrado3{
+    left: 0px ;
+    bottom: 0px ;
+    background: #0400ff;
+}
+
+.quadrado4{
+    right: 0px ;
+    top: 0px ;
+    background: #ff00ea;
+}
